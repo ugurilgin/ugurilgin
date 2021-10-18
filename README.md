@@ -1,7 +1,22 @@
 
 **Profile Views**
 
+<h1 align="center">Hi 👋, I'm Uğur</h1>
+<h3 align="center">Software Developer & Data Scientist</h3>
 ![Visitor Count](https://profile-counter.glitch.me/{ugurilgin}/count.svg)
+
+## Skills and Experience
+
+- 🌱  **.NET,Django,Flask,Java,Python**
+- 🌱 React
+- 🌱 HTML, CSS, JS
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugurilgin" alt="ugurilgin" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurilgin&show_icons=true&locale=en&layout=compact" alt="ugurilgin" style="max-width:100%;"/></p>
+
+<p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=ugurilgin&show_icons=true&locale=en" alt="ugurilgin" style="max-width:100%;"/></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurilgin&show_icons=true&theme=white)
 
