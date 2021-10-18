@@ -1,6 +1,6 @@
 
 **Profile Views**
-![Visitor Count](https://profile-counter.glitch.me/{ugurilgin}/count.svg)
+<p> ![Visitor Count](https://profile-counter.glitch.me/{ugurilgin}/count.svg)</p>
 
 <h1 align="center">Hi 👋, I'm Uğur</h1>
 <h3 align="center">Software Developer & Data Scientist</h3>
