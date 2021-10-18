@@ -1,7 +1,7 @@
 
-### Profile Views
+## Profile Views
  ![Visitor Count](https://profile-counter.glitch.me/{ugurilgin}/count.svg)
-**Profile Details**
+## Profile Details
 <h1 align="center">Hi 👋, I'm Uğur</h1>
 <h3 align="center">Software Developer & Data Scientist</h3>
 [<img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCiZGhGvJcX8Q1-XicMqabjg) [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ugur-ilgin/) [<img alt="Gmail" src="https://img.shields.io/badge/@ugurilgin94@GMAİL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ugurilgin94@gmail.com)
