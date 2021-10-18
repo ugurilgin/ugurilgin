@@ -1,5 +1,5 @@
 
-**Profile Views**
+### Profile Views
  ![Visitor Count](https://profile-counter.glitch.me/{ugurilgin}/count.svg)
 **Profile Details**
 <h1 align="center">Hi 👋, I'm Uğur</h1>
